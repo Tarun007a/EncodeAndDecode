@@ -1,1 +1,3 @@
 # EncodeAndDecode
+Author : Tarun Chourey
+This project uses Huffman string compression algorihm for encoding a string in to a set of bits. To use this firstly you have to provide a feeder string on the basis of which your string will be encoded and decoded. Try to provide the feeder string in such a way that the characters which you will you are more frequent the the other to reduce the size of file and length of encoded string.
